@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Suwargi";
+  src: url("./assets/Suwargi.ttf") format("truetype");
+}
+
+.hoverPrimary:hover {
+  color: #9cff2e;
+  background-color: black;
+  border: 2px solid #9cff2e;
+}
+
+
+.primaryFont{
+  font-family: "Suwargi";
+}
+
+.fontPrimary{
+  color:  #9cff2e;
+}
+
+.colorPrimary {
+  background-color: #9cff2e;
+}
+
+.slide-left {
+  width:100%;
+  overflow:hidden;
+  display: flex;
+}
+.slide-left span {
+  animation: slide-left 13s infinite;
+  font-family: "Suwargi";
+}
+
+@keyframes slide-left {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: -250%;
+    width: 300%;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .slide-left span {
+      animation-duration: 6s; /* Adjust animation duration for smaller screens */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .slide-left span {
+      animation-duration: 4s; /* Further adjust animation duration for even smaller screens */
+    }
+  }
+
+
