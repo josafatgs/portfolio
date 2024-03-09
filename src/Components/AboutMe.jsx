@@ -1,5 +1,5 @@
 import "../styles.css";
-import cube from "../assets/cube.png";
+import cube from "../../public/assets/cube.png";
 import CubeInfo from "./CubeInfo";
 
 function AboutMe() {

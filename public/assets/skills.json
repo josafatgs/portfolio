@@ -1,0 +1,74 @@
+[
+    {
+        "name": "javascript",
+        "path": "../public/assets/js.png"
+    },
+    {
+        "name": "django",
+        "path": "../public/assets/django.png"
+    },
+    {
+        "name": "mysql",
+        "path": "../public/assets/mysql.png"
+    },
+    {
+        "name": "html",
+        "path": "../public/assets/html.png"
+    },
+    {
+        "name": "css",
+        "path": "../public/assets/css.png"
+    },
+    {
+        "name": "mongodb",
+        "path": "../public/assets/mongodb.png"
+    },
+    {
+        "name": "nodejs",
+        "path": "../public/assets/nodejs.png"
+    },
+    {
+        "name": "react",
+        "path": "../public/assets/react.png"
+    },
+    {
+        "name": "tailwind",
+        "path": "../public/assets/tailwind.png"
+    },
+    {
+        "name": "python",
+        "path": "../public/assets/python.png"
+    },
+    {
+        "name": "postman",
+        "path": "../public/assets/postman.png"
+    },
+    {
+        "name": "java",
+        "path": "../public/assets/java.png"
+    },
+    {
+        "name": "git",
+        "path": "../public/assets/git.png"
+    },
+    {
+        "name": "figma",
+        "path": "../public/assets/figma.png"
+    },
+    {
+        "name": "firestore",
+        "path": "../public/assets/firestore.png"
+    },
+    {
+        "name": "expressjs",
+        "path": "../public/assets/expressjs.png"
+    },
+    {
+        "name": "elixir",
+        "path": "../public/assets/elixir.png"
+    },
+    {
+        "name": "ubuntu",
+        "path": "../public/assets/ubuntu.png"
+    }
+]

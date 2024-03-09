@@ -1,5 +1,5 @@
 import "../styles.css";
-import rectangle from "../assets/rectangle.png";
+import rectangle from "../../public/assets/rectangle.png";
 
 function Collaboration() {
   return (

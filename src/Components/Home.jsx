@@ -1,4 +1,4 @@
-import portrait from "../assets/portrait.png";
+import portrait from "../../public/assets/portrait.png";
 import "../styles.css";
 
 function Home() {
