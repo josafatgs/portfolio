@@ -1,0 +1,74 @@
+[
+    {
+        "name": "javascript",
+        "path": "./assets/js.png"
+    },
+    {
+        "name": "django",
+        "path": ".assets/django.png"
+    },
+    {
+        "name": "mysql",
+        "path": "./assets/mysql.png"
+    },
+    {
+        "name": "html",
+        "path": "./assets/html.png"
+    },
+    {
+        "name": "css",
+        "path": "./assets/css.png"
+    },
+    {
+        "name": "mongodb",
+        "path": "./assets/mongodb.png"
+    },
+    {
+        "name": "nodejs",
+        "path": "./assets/nodejs.png"
+    },
+    {
+        "name": "react",
+        "path": "./assets/react.png"
+    },
+    {
+        "name": "tailwind",
+        "path": "./assets/tailwind.png"
+    },
+    {
+        "name": "python",
+        "path": "./assets/python.png"
+    },
+    {
+        "name": "postman",
+        "path": "./assets/postman.png"
+    },
+    {
+        "name": "java",
+        "path": "./assets/java.png"
+    },
+    {
+        "name": "git",
+        "path": "./assets/git.png"
+    },
+    {
+        "name": "figma",
+        "path": "./assets/figma.png"
+    },
+    {
+        "name": "firestore",
+        "path": "./assets/firestore.png"
+    },
+    {
+        "name": "expressjs",
+        "path": "./assets/expressjs.png"
+    },
+    {
+        "name": "elixir",
+        "path": "./assets/elixir.png"
+    },
+    {
+        "name": "ubuntu",
+        "path": "./assets/ubuntu.png"
+    }
+]

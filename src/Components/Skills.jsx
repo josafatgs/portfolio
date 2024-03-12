@@ -1,4 +1,4 @@
-import skills from "../../public/assets/skills.json"
+import skills from "../assets/skills.json"
 
 function Skills({ title, skillList }) {
 

@@ -3,7 +3,7 @@ function Header() {
     <header className="bg-black text-white flex justify-between items-center py-8 px-8">
       <ul className="flex flex-wrap">
         <li className="mr-4 mb-2">
-          <img src="../../public/assets/frame.png" alt="figure" className="w-8" />
+          <img src="./assets/frame.png" alt="figure" className="w-8" />
         </li>
         <li className="mr-4 mb-2" id="#Home">
           <a href="#Home" className="hover:text-gray-400">
