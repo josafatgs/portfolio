@@ -5,7 +5,7 @@
     },
     {
         "name": "django",
-        "path": ".assets/django.png"
+        "path": "./assets/django.png"
     },
     {
         "name": "mysql",

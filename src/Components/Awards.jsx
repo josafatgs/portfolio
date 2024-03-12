@@ -7,7 +7,7 @@ function Awards(){
             <h1 className="fontPrimary text-2xl">Awards</h1>
             <div className="p-8 grid grid-cols-1 sm:grid-cols-2">
                 <CardAwards imagePath={"./assets/hack.jpg"} title={"Hackthon Odoo Partner Winner 3rd place"}></CardAwards>
-                <CardAwards imagePath={"./assets/greencarson.jpeg"} title={"Green Carson App Development"}></CardAwards>
+                <CardAwards imagePath={"./assets/greencarson.jpeg"} title={"Green Carson App Development Puebla Reecicla"}></CardAwards>
             </div>
         </section>
     );
