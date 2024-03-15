@@ -21,12 +21,13 @@ function Skills({ title, skillList }) {
             <img
                 src={getPath(skill)}
                 alt={`Image ${index}`}
-                className="w-10 h-10 object-contain"
+                className="w-10 h-10 object-contain opacity-25 hover:opacity-100"
             />
             </div>
         ))}
       </div>
-    </article>
+
+    </article>  
   );
 }
 
